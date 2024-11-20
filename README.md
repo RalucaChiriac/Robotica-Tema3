@@ -12,13 +12,15 @@ Pe tot parcursul jocului display-ul LCD va arata punctajul fiecarui jucator.
 
 ## Componente utilizate
 
-- 6x LED-uri
-- 2x LED RGB
-- 6x butoane
+- 6x LED-uri (2 grupuri de câte 3 leduri: albastru, verde si rosu)
+- 2x LED RGB (1 pentru fiecare jucător)
+- 12x Rezistențe 330 ohm
+- 7x Butoane (3 pentru fiecare jucător + 1 pentru pornirea jocului)
 - 1x LCD
-- 1x servomotor
+- 1x Potențiometru
+- 1x Servomotor
 - 2x Breadboard
-- Fire de legatura
+- Fire de legătură
 - 2x Arduino Uno
 
 
