@@ -40,6 +40,6 @@ https://youtu.be/-a_K9zLdSlE?si=ClWI5_-FjgzcEhGD
 ## Schema electrica
 
 ![Diagrama electrica 1](./poze/poza_schema.jpeg)
-![Diagrama electrica 2](./poze/schema_2.JPG)
+![Diagrama electrica 2](./poze/schema_2.jpg)
 
 
